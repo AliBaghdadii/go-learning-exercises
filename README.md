@@ -3,3 +3,4 @@ My golang exercises while I learn this programming language. I upload one exerci
 My exercises:
 1. Hello world.
 2. Values.
+3. Variables.
