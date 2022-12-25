@@ -4,3 +4,4 @@ My exercises:
 1. Hello world.
 2. Values.
 3. Variables.
+4. Constants.
