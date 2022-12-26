@@ -5,3 +5,4 @@ My exercises:
 2. Values.
 3. Variables.
 4. Constants.
+5. For loops.
