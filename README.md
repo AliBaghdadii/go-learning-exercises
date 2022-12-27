@@ -6,3 +6,4 @@ My exercises:
 3. Variables.
 4. Constants.
 5. For loops.
+6. if/else if/else.
