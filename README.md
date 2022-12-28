@@ -7,3 +7,4 @@ My exercises:
 4. Constants.
 5. For loops.
 6. if/else if/else.
+7. Switch.
