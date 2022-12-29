@@ -8,3 +8,4 @@ My exercises:
 5. For loops.
 6. if/else if/else.
 7. Switch.
+8. Arrays.
