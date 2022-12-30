@@ -9,3 +9,4 @@ My exercises:
 6. if/else if/else.
 7. Switch.
 8. Arrays.
+9. Slices.
