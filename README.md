@@ -10,3 +10,4 @@ My exercises:
 7. Switch.
 8. Arrays.
 9. Slices.
+10. Maps.
