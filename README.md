@@ -1,5 +1,5 @@
 # go-learning-exercises
-My golang exercises while I learn this programming language. I upload one exercise everyday.
+My golang exercises while I learn this programming language. I upload one exercise everyday I have internet connection (internet connection in iran is awful currently).
 My exercises:
 1. Hello world.
 2. Values.
@@ -17,3 +17,4 @@ My exercises:
 14. Variadic Functions.
 15. Closures.
 16. Recursion.
+17. Pointers.
