@@ -18,3 +18,4 @@ My exercises:
 15. Closures.
 16. Recursion.
 17. Pointers.
+18. Strings and runes.
