@@ -19,3 +19,4 @@ My exercises:
 16. Recursion.
 17. Pointers.
 18. Strings and runes.
+19. Structs.
