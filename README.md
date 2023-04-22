@@ -20,3 +20,4 @@ My exercises:
 17. Pointers.
 18. Strings and runes.
 19. Structs.
+20. Methods.
