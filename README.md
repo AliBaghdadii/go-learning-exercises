@@ -21,3 +21,4 @@ My exercises:
 18. Strings and runes.
 19. Structs.
 20. Methods.
+21. Interfaces.
