@@ -22,3 +22,4 @@ My exercises:
 19. Structs.
 20. Methods.
 21. Interfaces.
+22. Struct Embedding.
