@@ -23,3 +23,4 @@ My exercises:
 20. Methods.
 21. Interfaces.
 22. Struct Embedding.
+23. Generics.
