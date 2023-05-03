@@ -24,3 +24,4 @@ My exercises:
 21. Interfaces.
 22. Struct Embedding.
 23. Generics.
+24. Errors.
