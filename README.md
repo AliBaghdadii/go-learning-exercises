@@ -25,3 +25,4 @@ My exercises:
 22. Struct Embedding.
 23. Generics.
 24. Errors.
+25. Goroutines.
